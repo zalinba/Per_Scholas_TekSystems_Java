@@ -1,7 +1,7 @@
 package com.perscholas.powerpoints._1_java_programming_fundamentals.slide_examples;
 //PowerPoint 303.1.2 - Java Programming Fundamentals
 
-public class Slide7_To_Slide11_VarDeclarationAndMemAllocation {
+public class Slide7_To_Slide11 {
     /* When we declare a variable, it's simply a variable with no value.
      * We follow the expression:
      *
